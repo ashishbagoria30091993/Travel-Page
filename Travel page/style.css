@@ -1,0 +1,269 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body,
+html {
+    line-height: 1.6;
+    color: #333;
+    scroll-behavior: smooth;
+}
+
+.container {
+    width: 90%;
+    max-width: 1100px;
+    margin: 0 auto;
+    position: absolute;
+}
+
+header {
+    background: #fff;
+    padding: 20px 0;
+
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+    margin-left: 137px;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 50px;
+    word-spacing: px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: #333;
+    font-weight: 500;
+
+}
+
+button {
+    height: 25px;
+    width: 75px;
+    color: black;
+}
+
+#smallword {
+    margin-left: 140px;
+    color: red;
+    margin-top: 40px;
+}
+
+#bigword {
+    font-size: 50px;
+    margin-left: 140px;
+    font-weight: bold;
+    color: black;
+    line-height: 1.2;
+    margin-top: 20px;
+}
+
+#small1 {
+    font-size: 13px;
+    margin-left: 140px;
+    margin-top: 20px;
+}
+
+.mini {
+    display: flex;
+}
+
+.btn {
+    font-size: 15px;
+    width: 130px;
+    height: 50px;
+    background-color: rgb(255, 166, 0);
+    color: white;
+    border-radius: 5px;
+    margin-left: 140px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+#icon1 {
+    font-size: 40px;
+    margin-top: 25px;
+    margin-left: 30px;
+    color: orangered;
+}
+
+.play {
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.imga {
+    width: 600px;
+    height: 500px;
+    float: right;
+    margin-top: -470px;
+    margin-right: 90px;
+    position: relative;
+}
+
+#imga0 {
+    margin-top: 0px;
+    height: 450px;
+    width: 47%;
+    float: right;
+    position: relative;
+}
+
+#imga1 {
+    width: 100%;
+    height: 550px;
+    margin-top: 10px;
+}
+
+.main2 {
+    width: 100%;
+    height: auto;
+}
+
+
+#icon2 {
+    font-size: 40px;
+    color: skyblue;
+}
+
+#icon3 {
+    font-size: 40px;
+    color: green;
+}
+
+#icon4 {
+    font-size: 40px;
+    color: black;
+}
+
+#icon5 {
+    font-size: 40px;
+    color: gray;
+}
+
+.middle2 {
+    display: flex;
+    margin-left: 150px;
+    text-align: center;
+    gap: 150px;
+}
+
+.para {
+    font-size: 10px;
+    text-align: center;
+    margin-top: 8px;
+}
+
+.main3 {
+    width: 100%;
+    height: auto;
+}
+
+.middle3 {
+    display: flex;
+    width: 80%;
+    align-items: center;
+    position: relative;    
+}
+.card{
+    width: 25%;
+    height: 300px;
+    margin-left: 76px;    
+}
+.main4{
+    width: 100%;
+    height:auto;
+    display: flex;
+}
+.middle4{
+    width:50%;
+    height:auto;
+    margin-left: 140px;
+}
+.steps1{
+    margin-top: -50px;
+    margin-left: 55px;
+}
+.steps2{
+    font-size: 10px;
+}
+.imga2{
+    width: 40%;
+    height:150px;
+    margin-top: -60px;
+    margin-right: 150px;
+}
+.main5{
+    width: 100%;
+    height:auto;
+    display: flex;
+}
+.middle5{
+    width:40%;
+    height:auto;
+    margin-left: 140px;
+}
+.imga3{
+    width: 50%;
+    height:150px;
+    margin-right: 150px;
+}
+.gapc{
+    font-size: 100px;
+    gap: 150px;
+    margin-top: -50px;
+}
+.main6{
+    width: 100%;
+    height:auto;
+}
+.middle6{
+    width:75%;
+    height: auto;
+    margin-left: 140px;
+}
+.main7{
+    width: 100%;
+    height:auto;
+}
+.middle7{
+    width:90%;
+    height: auto;
+    margin-left: 70px;
+    margin-top: -60px;
+}
+
+.main8{
+    width: 100%;
+    height:auto;
+}
+.middle8{
+    width: 80%;
+    height: auto;
+    display: flex;
+    margin-left: 140px;
+    gap: 90px;
+}
+.star1{
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: -14px;
+}
+.box2{
+ width:16%;
+}
+
